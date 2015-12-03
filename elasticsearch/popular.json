@@ -1,0 +1,100 @@
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"ThisAmericanLife","podcast_id":2,"image_url":"http://www.thisamericanlife.org/sites/all/themes/thislife/images/logo-square-1400.jpg","feed_url":"http://feeds.thisamericanlife.org/talpodcast","rank":1}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"400BadRequest","podcast_id":26,"image_url":null,"feed_url":"http://atp.fm/episodes?format=rss","rank":2}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"TheTalkShowWithJohnGruber","podcast_id":3,"image_url":"http://daringfireball.net/thetalkshow/graphics/df-the-talk-show-album-art.png","feed_url":"http://daringfireball.net/thetalkshow/rss","rank":3}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"Radiolab","podcast_id":31,"image_url":"https://media2.wnyc.org/i/1400/1400/l/80/1/Radiolab-wnycstudios.jpg","feed_url":"http://feeds.wnyc.org/radiolab","rank":4}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"FreakonomicsRadio","podcast_id":15,"image_url":"https://media2.wnyc.org/i/1400/1400/l/80/1/wn16_wnycstudios_freakonomics-rev3.png","feed_url":"http://feeds.feedburner.com/freakonomicsradio","rank":5}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"StuffYouShouldKnow","podcast_id":35,"image_url":"http://podcasts.howstuffworks.com/hsw/podcasts/sysk/sysk-audio-1600.jpg","feed_url":"http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss","rank":6}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"TEDRadioHour","podcast_id":33,"image_url":"http://media.npr.org/assets/img/2015/03/18/ted_sq-3426270a541795b78233a698dd7965d407545cf3.jpg?s=1400","feed_url":"http://www.npr.org/rss/podcast.php?id=510298","rank":7}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"DevelopingPerspective","podcast_id":16,"image_url":"http://developingperspective.s3.amazonaws.com/logo1400.png","feed_url":"http://developingperspective.com/feed/podcast/","rank":8}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"PlanetMoney","podcast_id":9,"image_url":"http://media.npr.org/images/podcasts/primary/icon_510289-d5d79b164ba7670399f0287529ce31a94523b224.jpg?s=1400","feed_url":"http://www.npr.org/rss/podcast.php?id=510289","rank":9}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"Debug","podcast_id":18,"image_url":"http://master.mobilenations.com/broadcasting/podcast_debug_1400.jpg","feed_url":"http://feeds.feedburner.com/debugshow","rank":10}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"ThePrompt","podcast_id":4,"image_url":"http://icebox.5by5.tv/images/broadcasts/57/cover.jpg","feed_url":"http://feeds.5by5.tv/prompt","rank":11}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"99%Invisible","podcast_id":27,"image_url":"http://cdn.99percentinvisible.org/wp-content/uploads/powerpress/99invisible-logo-1400.jpg","feed_url":"http://feeds.99percentinvisible.org/99percentinvisible","rank":12}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"BacktoWork","podcast_id":307,"image_url":"http://icebox.5by5.tv/images/broadcasts/19/cover.jpg","feed_url":"http://feeds.5by5.tv/b2w","rank":13}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"MacPowerUsers","podcast_id":371,"image_url":"http://relayfm.s3.amazonaws.com/uploads/broadcast/image/16/mpu_artwork.png","feed_url":"http://feeds.5by5.tv/mpu","rank":14}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"CMD+Space","podcast_id":20,"image_url":"http://icebox.5by5.tv/images/broadcasts/49/cover.jpg","feed_url":"http://feeds.5by5.tv/cmdspace","rank":15}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"WaitWait...Don'tTellMe!","podcast_id":32,"image_url":"http://media.npr.org/images/podcasts/primary/icon_344098539-f089cf02094b52708d0979b026a157aa5a1e3ac1.jpg?s=1400","feed_url":"http://www.npr.org/rss/podcast.php?id=35","rank":16}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"CoreIntuition","podcast_id":19,"image_url":"http://coreint.org/images/newlogo_1400.png","feed_url":"http://www.coreint.org/podcast.xml","rank":17}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"TheMothPodcast","podcast_id":40,"image_url":"http://cdn.themoth.prx.org/wp-content/uploads/powerpress/moth_podcast_1400x1400.jpg","feed_url":"http://feeds.feedburner.com/themothpodcast","rank":18}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"TheIncomparable","podcast_id":1854,"image_url":"https://www.theincomparable.com/imgs/logos/logo-theincomparable-3x.jpg","feed_url":"http://feeds.5by5.tv/incomparable","rank":19}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"TheNerdist","podcast_id":6316,"image_url":"http://static.libsyn.com/p/assets/3/c/4/5/3c45b257669e76d7/nerdistlogo.jpg","feed_url":"http://nerdist.libsyn.com/rss","rank":20}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"FreshAir","podcast_id":38,"image_url":"http://media.npr.org/images/podcasts/primary/icon_381444908-6388a4123207c734918f15c97de6d49ae634f820.jpg?s=1400","feed_url":"http://www.npr.org/rss/podcast.php?id=13","rank":21}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"ThisWeekinTech(MP3)","podcast_id":74,"image_url":"http://twit.cachefly.net/coverart/twit/twit1400audio.jpg","feed_url":"http://leoville.tv/podcasts/twit.xml","rank":22}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"MacBreakWeekly(MP3)","podcast_id":284,"image_url":"http://twit.cachefly.net/coverart/mbw/mbw1400audio.jpg","feed_url":"http://leoville.tv/podcasts/mbw.xml","rank":23}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"WTFwithMarcMaronPodcast","podcast_id":6319,"image_url":"http://static.libsyn.com/p/assets/6/c/a/3/6ca38c2fefa1e989/WTF_-_new_larger_cover.jpg","feed_url":"http://wtfpod.libsyn.com/rss","rank":24}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"TEDTalks(audio)","podcast_id":41,"image_url":"http://images.ted.com/images/ted/podcast/en/iTunes_ideasworthspreading_audio.jpg","feed_url":"http://feeds.feedburner.com/TEDTalks_audio","rank":25}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"Systematic","podcast_id":6311,"image_url":"http://icebox.5by5.tv/images/broadcasts/39/cover.jpg","feed_url":"http://feeds.5by5.tv/systematic","rank":26}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"Unprofessional","podcast_id":1,"image_url":"http://static1.squarespace.com/static/5127dae1e4b0559e76f34c16/t/52cc6b2ee4b0411a528ddda3/1389128497779/1500w/unprofesh.png","feed_url":"http://feeds.muleradio.net/unprofessional","rank":27}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"RoderickontheLine","podcast_id":6314,"image_url":"http://www.merlinmann.com/storage/rotl/rotl-logo-300-sq.jpg","feed_url":"http://feeds.feedburner.com/RoderickOnTheLine","rank":28}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"Lifehacker","podcast_id":128,"image_url":"http://i1.sndcdn.com/avatars-000011575745-3bp8vp-original.jpg","feed_url":"http://feeds.soundcloud.com/users/soundcloud:users:13359686/sounds.rss","rank":29}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"YouLookNiceToday","podcast_id":10230,"image_url":"http://www.youlooknicetoday.com/files/feed_media/ceph_300.jpg","feed_url":"http://feeds.feedburner.com/YouLookNiceToday","rank":30}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"TheJoeRoganExperience","podcast_id":6339,"image_url":"http://static.libsyn.com/p/assets/0/8/6/8/08688b90de11f9ab/JREiTunesImage.jpg","feed_url":"http://joeroganexp.joerogan.libsynpro.com/rss","rank":31}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"Iterate","podcast_id":11,"image_url":"http://www.mobilenations.com/broadcasting/podcast_iterate_1400.jpg","feed_url":"http://feeds.feedburner.com/Iterate","rank":32}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"StarTalkRadio","podcast_id":39,"image_url":"http://i1.sndcdn.com/avatars-000100403534-873grd-original.jpg","feed_url":"http://www.startalkradio.net/feed/shows/","rank":33}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"DanCarlin'sHardcoreHistory","podcast_id":36,"image_url":"http://www.dancarlin.com/graphics/DC_HH_iTunes.jpg","feed_url":"http://feeds.feedburner.com/dancarlin/history?format=xml","rank":34}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"5by5Specials","podcast_id":5914,"image_url":"http://icebox.5by5.tv/images/broadcasts/31/cover.jpg","feed_url":"http://feeds.5by5.tv/specials","rank":35}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"StuffYouMissedinHistoryClass","podcast_id":42,"image_url":"http://s.hswstatic.com/gif/symhc-new-logo-1600x1600.png","feed_url":"http://www.howstuffworks.com/podcasts/stuff-you-missed-in-history-class.rss","rank":36}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"Amplified","podcast_id":6320,"image_url":"http://icebox.5by5.tv/images/broadcasts/35/cover.jpg","feed_url":"http://feeds.5by5.tv/amplified","rank":37}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"ESPN:TheB.S.ReportwithBillSimmons","podcast_id":47,"image_url":"http://a.espncdn.com/i/espnradio/stations/espn/podcasts/bs_report_1400_stamp.jpg","feed_url":"http://sports.espn.go.com/espnradio/podcast/feeds/itunes/podCast?id=2864045","rank":38}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"TechnicalDifficulties","podcast_id":6328,"image_url":null,"feed_url":"http://feeds.feedburner.com/generationalPodcast","rank":39}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"WelcometoNightVale","podcast_id":30,"image_url":"http://assets.libsyn.com/content/5896287.jpg","feed_url":"http://feeds.feedburner.com/WelcomeToNightVale","rank":40}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"GlobalNewsPodcast","podcast_id":53,"image_url":"http://ichef.bbci.co.uk/images/ic/1408x1408/p02h1lpt.jpg","feed_url":"http://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml","rank":41}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"TheVergecast","podcast_id":162,"image_url":"http://podcasts.sbnation.com.s3.amazonaws.com/vergecast_art.jpg","feed_url":"http://feeds.feedburner.com/ThisIsMyNextPodcast","rank":42}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"Vector","podcast_id":5564,"image_url":"http://master.mobilenations.com/broadcasting/podcast_vector_1400.jpg","feed_url":"http://feeds.feedburner.com/vectorshow","rank":43}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"FridayNightComedyfromBBCRadio4","podcast_id":349,"image_url":"http://ichef.bbci.co.uk/images/ic/1408x1408/p02zhzpy.jpg","feed_url":"http://downloads.bbc.co.uk/podcasts/radio4/fricomedy/rss.xml","rank":44}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"InOurTime","podcast_id":12,"image_url":"http://ichef.bbci.co.uk/images/ic/1408x1408/p02sfr3z.jpg","feed_url":"http://downloads.bbc.co.uk/podcasts/radio4/iot/rss.xml","rank":45}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"Quit","podcast_id":6322,"image_url":"http://icebox.5by5.tv/images/broadcasts/44/cover.jpg","feed_url":"http://feeds.5by5.tv/quit","rank":46}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"EnglishasaSecondLanguage(ESL)Podcast-LearnEnglishOnline","podcast_id":132,"image_url":"http://www.eslpod.com/iTunesLogos/ESLPodcast.jpg","feed_url":"http://feeds.feedburner.com/EnglishAsASecondLanguagePodcast","rank":47}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"BacktoWorkwithAfterDarkPost-Shows","podcast_id":6395,"image_url":"http://icebox.5by5.tv/images/broadcasts/19/cover.jpg","feed_url":"http://feeds.5by5.tv/b2w-afterdark","rank":48}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"TheNewDisruptors","podcast_id":888,"image_url":"http://newdisruptors.s3.amazonaws.com/images/ND_full_iTunes.jpg","feed_url":"http://feeds.newdisrupt.org/nd","rank":49}
+{ "create" : { "_index" : "popular", "_type" : "podcast" } }
+{"title":"iMoreshow","podcast_id":5716,"image_url":"http://www.mobilenations.com/broadcasting/imoreshow_1400.jpg","feed_url":"http://feeds.feedburner.com/PhoneDifferentPodcast","rank":50}
